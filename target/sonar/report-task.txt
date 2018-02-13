@@ -1,0 +1,6 @@
+projectKey=TestSpringMVCProject:TestSpringMVCProject
+serverUrl=http://localhost:9000
+serverVersion=6.7.1.35068
+dashboardUrl=http://localhost:9000/dashboard/index/TestSpringMVCProject:TestSpringMVCProject
+ceTaskId=AWGLyZihUuwGf5i5il9y
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWGLyZihUuwGf5i5il9y
